@@ -43,6 +43,14 @@ Programa de Capacitação Tecnológica criado pelo Instituto Atlântico para for
 
   - **[Aula 01](https://github.com/andressagomes26/MachineLearning_AcademyBootcamp/tree/main/Atividades%20-Aula%2001/atlantico_bootcamp-main/PDI/Aula_1);**
   
+## Projeto: Classificação de Tempo ⛈🌤🌪🌩🌨🌦
+
+**Trilha inicial**
+
+  - Pré-processamento da imagem
+  - Realizar pelo menos 3 pipilines de pré-processamento
+  - Se necessário executar uma segmentação
+
 ## Status do Projeto 📆📌
 - As resoluções dos desafios encontram-se em desenvolvimento.
 
