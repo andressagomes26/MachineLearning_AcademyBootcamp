@@ -30,7 +30,8 @@ def load_building_image():
     return plt.imread("imgs//toa-sharp-def-3.jpg")
 
 def load_chest_ray_x():
-    return plt.imread("imgs//contrast_00000109_005.png")
+    #return plt.imread("imgs//contrast_00000109_005.png")
+    return plt.imread("imgs//lena.png")
 
 def load_aerial_image():
     return plt.imread("imgs//aerial.png")
