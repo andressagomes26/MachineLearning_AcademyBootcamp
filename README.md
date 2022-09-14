@@ -42,10 +42,11 @@ Programa de Capacitação Tecnológica criado pelo Instituto Atlântico para for
 * **Módulo 1 -** Visão Computacional:
 
   - **[Aula 01](https://github.com/andressagomes26/MachineLearning_AcademyBootcamp/tree/main/Atividades%20-Aula%2001/atlantico_bootcamp-main/PDI/Aula_1);**
+  - **[Aula 02](https://github.com/andressagomes26/MachineLearning_AcademyBootcamp/tree/main/Atividades%20-Aula%2001/atlantico_bootcamp-main/PDI/Aula_2);**
   
 ## Projeto: Classificação de Tempo ⛈🌤🌪🌩🌨🌦
 
-**Trilha inicial**
+**[Trilha inicial](https://github.com/andressagomes26/MachineLearning_AcademyBootcamp/tree/main/Trilha%20Inicial)**
 
   - Pré-processamento da imagem
   - Realizar pelo menos 3 pipilines de pré-processamento
