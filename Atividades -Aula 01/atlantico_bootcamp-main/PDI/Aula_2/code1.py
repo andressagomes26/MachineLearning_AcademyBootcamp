@@ -14,7 +14,6 @@ thresh = threshold_otsu(gray_tools_image)
 # Obtain the binary image by applying thresholding
 binary_image = gray_tools_image > thresh
 
-
 # Show the original image
 show_image(tools_image, 'original image')
 # Show the resulting binary image

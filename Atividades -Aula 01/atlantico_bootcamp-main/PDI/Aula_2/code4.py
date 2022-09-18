@@ -8,7 +8,7 @@ chest_xray_image = load_chest_ray_x()
 show_image(chest_xray_image, 'Original x-ray')
 
 plt.title('Histogram of image')
-plt.hist(chest_xray_image.ravel(), bins=256)
+plt.hist(chest_xray_image.ravel(), bins=255)
 plt.show()
 
 # Use histogram equalization to improve the contrast
