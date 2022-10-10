@@ -4,7 +4,7 @@ from skimage.color import rgb2gray
 # Import the filters module and sobel function
 from skimage.filters import sobel
 
-from PDI.src.pdi_utils import load_soaps_image,show_image
+from PDI.src.pdi_utils import load_soaps_image, show_image
 
 soaps_image = load_soaps_image()
 

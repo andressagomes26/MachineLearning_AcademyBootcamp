@@ -13,7 +13,7 @@ def compute_entropy(labels, base=None):
 
 image_aerial = load_aerial_image()
 
-# calcular e mostrar o histograma da imagem
+# calcular e mostrar o histograma da imagem original
 hist_n_eq = plt.hist(image_aerial.ravel(), bins=256)
 plt.show()
 
@@ -56,8 +56,8 @@ hist_entropy_n_eq = compute_entropy(hist_n_eq[0], base=2)
 hist_entropy_eq = compute_entropy(hist_eq[0], base=2)
 
 #Mostrar os valores calculdos
-print("media de valores de pixel na imagem não eq: ", img_mean_n_eq )
-print("media de valores de pixel  na imagem eq: ", img_mean_eq )
+print("media de valores de pixel na imagem não eq: ", img_mean_n_eq)
+print("media de valores de pixel  na imagem eq: ", img_mean_eq)
 
 print("variancia de valores de pixel na imagem não eq: ", img_var_n_eq)
 print("variancia de valores de pixel  na imagem eq: ", img_var_eq)
@@ -65,8 +65,8 @@ print("variancia de valores de pixel  na imagem eq: ", img_var_eq)
 print("entropia de valores do histograma da imagem não eq: ", hist_entropy_n_eq)
 print("entropia de valores do histograma da imagem eq: ", hist_entropy_eq)
 
-print("numero de pixels com probabilidde de ocorrencia menor que,", l_freq, " na imagem não eq: ", len(low_freq_region_n_eq))
-print("numero de pixels com probabilidde de ocorrencia menor que,", l_freq, " na imagem eq: ", len(low_freq_region_eq))
+print("numero de pixels com probabilidde de ocorrencia menor que,", l_freq, " na imagem não eq: ", len(low_freq_region_n_eq[0]))
+print("numero de pixels com probabilidde de ocorrencia menor que,", l_freq, " na imagem eq: ", len(low_freq_region_eq[0]))
 
 print("media de valores de pixel de baixa probablidade de ocorrencia na imagem não eq: ", mean_pixel_low_freq_n_eq)
 print("media de valores de pixel de baixa probablidade  de ocorrencia na imagem eq: ", mean_pixel_low_freq_eq)
