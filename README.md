@@ -36,6 +36,10 @@ Programa de Capacitação Tecnológica criado pelo Instituto Atlântico para for
   - **[Tutorial OpenCv](https://github.com/andressagomes26/MachineLearning_AcademyBootcamp/blob/main/M%C3%B3dulo%201%20-%20Vis%C3%A3o%20Computacional/Tutorial_Opencv.ipynb);**
   - **[Tutorial Scikit-Image](https://github.com/andressagomes26/MachineLearning_AcademyBootcamp/blob/main/M%C3%B3dulo%201%20-%20Vis%C3%A3o%20Computacional/Tutorial_scikit-image.ipynb);**
   
+* **Módulo 2 -** Visão Computacional Intermediário:
+
+  - **[Classificacao de Imagens](https://github.com/andressagomes26/MachineLearning_AcademyBootcamp/blob/main/M%C3%B3dulo%202%20-%20Vis%C3%A3o%20Computacional%20Intermedi%C3%A1rio/Classificacao_de_Imagens.ipynb);**
+  
 
 ## Atividades 💻
 
@@ -52,6 +56,16 @@ Programa de Capacitação Tecnológica criado pelo Instituto Atlântico para for
   - Realizar pelo menos 3 pipilines de pré-processamento
   - Se necessário executar uma segmentação
 
+**[Trilha intermediária](https://github.com/andressagomes26/MachineLearning_AcademyBootcamp/tree/main/Trilha%20Intermedi%C3%A1ria)**
+
+  - Extrair atributos da imagem
+  - Realizar pelo menos 3 pipilines de classificação desses atributos
+
+**[Trilha avançada]()**
+
+  - Classificação de imagens usando Deep Learning 
+  - Realizar pelo menos 3 pipilines de classificação
+  
 ## Status do Projeto 📆📌
 - As resoluções dos desafios encontram-se em desenvolvimento.
 
